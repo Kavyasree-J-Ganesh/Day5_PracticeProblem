@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.basiccoreprograms;
 
 public class Even_or_Odd {
     static void evenOrOdd(int num){

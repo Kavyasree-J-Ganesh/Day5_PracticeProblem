@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.basiccoreprograms;
 
 public class Harmonic {
     static void harmonicNumber(double num){

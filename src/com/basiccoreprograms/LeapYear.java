@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.basiccoreprograms;
 
 public class LeapYear {
     static void checkLeapYear(int year) {

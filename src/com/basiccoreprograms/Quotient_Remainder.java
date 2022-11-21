@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.basiccoreprograms;
 
 public class Quotient_Remainder {
     static void quotientAndRemainder(int a, int b){

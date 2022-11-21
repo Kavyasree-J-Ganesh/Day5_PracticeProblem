@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.basiccoreprograms;
 
 public class Vowel_or_Consonant {
     static void checkVowelOrConsonant(char ch){
