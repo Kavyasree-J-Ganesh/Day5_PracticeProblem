@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.basiccoreprograms;
 
 public class Swap_2_Numbers {
     static void swapNumbers(int a, int b){

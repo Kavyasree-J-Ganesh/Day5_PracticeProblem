@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.basiccoreprograms;
 
 public class Coin_Flip {
     static void flipCoin(double num){

@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.basiccoreprograms;
 
 public class Largest_Among_3Numbers {
     static void largest(int num1, int num2, int num3){
